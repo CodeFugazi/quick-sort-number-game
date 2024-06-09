@@ -18,5 +18,7 @@ Create a new React application using `create-react-app` or another method of you
 ```bash
 npx create-react-app drag-and-drop-sort-game
 cd drag-and-drop-sort-game
-
+```
+```bash
+yarn install
 ```
